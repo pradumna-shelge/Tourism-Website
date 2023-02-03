@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-testing
-=======
-testing diff now
->>>>>>> e04dca6a2edfd10ad6de6e3a5399c331187aa892
